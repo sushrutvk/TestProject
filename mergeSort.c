@@ -4,7 +4,7 @@
 
 void mergeSort( int *arr1, int size1, int *arr2, int size2 )
 {
-    printf("Test");
+    printf("Test WOOHOO");
 }
 
 int main( int argc, char * argv[] )
